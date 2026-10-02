@@ -11,6 +11,7 @@
   <a href="https://medium.com/karana"><img src="https://img.shields.io/badge/Kaarana-Medium-00B0FF?style=flat-square&logo=medium&logoColor=white" alt="Kaarana on Medium"></a>
   <a href="https://hasgeek.com/kaarana"><img src="https://img.shields.io/badge/Hasgeek-sessions-2EA44F?style=flat-square" alt="Hasgeek"></a>
   <a href="https://github.com/kaarana"><img src="https://img.shields.io/badge/GitHub-kaarana_archive-8B5CF6?style=flat-square" alt="kaarana archive"></a>
+  <a href="https://github.com/sponsors/srikanthlogic"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
 </p>
 
 ---
